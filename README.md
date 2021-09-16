@@ -1,0 +1,2 @@
+# JS-Party
+interview questions 
