@@ -1,2 +1,2 @@
 # JS-Party
-interview questions 
+Hello there, visit the discussion tab to expolore more .
